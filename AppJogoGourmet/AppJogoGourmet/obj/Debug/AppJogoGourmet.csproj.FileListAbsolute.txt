@@ -1,0 +1,14 @@
+C:\Git\Estudando C#\JogoGourmet\AppJogoGourmet\AppJogoGourmet\bin\Debug\AppJogoGourmet.exe.config
+C:\Git\Estudando C#\JogoGourmet\AppJogoGourmet\AppJogoGourmet\bin\Debug\AppJogoGourmet.exe
+C:\Git\Estudando C#\JogoGourmet\AppJogoGourmet\AppJogoGourmet\bin\Debug\AppJogoGourmet.pdb
+C:\Git\Estudando C#\JogoGourmet\AppJogoGourmet\AppJogoGourmet\obj\Debug\AppJogoGourmet.Properties.Resources.resources
+C:\Git\Estudando C#\JogoGourmet\AppJogoGourmet\AppJogoGourmet\obj\Debug\AppJogoGourmet.csproj.GenerateResource.cache
+C:\Git\Estudando C#\JogoGourmet\AppJogoGourmet\AppJogoGourmet\obj\Debug\AppJogoGourmet.csproj.CoreCompileInputs.cache
+C:\Git\Estudando C#\JogoGourmet\AppJogoGourmet\AppJogoGourmet\obj\Debug\AppJogoGourmet.exe
+C:\Git\Estudando C#\JogoGourmet\AppJogoGourmet\AppJogoGourmet\obj\Debug\AppJogoGourmet.pdb
+C:\Git\Estudando C#\JogoGourmet\AppJogoGourmet\AppJogoGourmet\obj\Debug\AppJogoGourmet.View.InitialView.resources
+C:\Git\Estudando C#\JogoGourmet\AppJogoGourmet\AppJogoGourmet\obj\Debug\AppJogoGourmet.View.InputBoxDialog.resources
+C:\Git\Estudando C#\JogoGourmet\AppJogoGourmet\AppJogoGourmet\bin\Debug\SimpleInjector.dll
+C:\Git\Estudando C#\JogoGourmet\AppJogoGourmet\AppJogoGourmet\bin\Debug\SimpleInjector.xml
+C:\Git\Estudando C#\JogoGourmet\AppJogoGourmet\AppJogoGourmet\obj\Debug\AppJogoGourmet.csprojAssemblyReference.cache
+C:\Git\Estudando C#\JogoGourmet\AppJogoGourmet\AppJogoGourmet\obj\Debug\AppJogoGourmet.csproj.CopyComplete
